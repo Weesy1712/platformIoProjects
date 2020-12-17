@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "GPS_Engineering"
+		},
+		{
+			"name": "TinyGPS",
+			"path": "TinyGPS"
+		},
+		{
+			"name": "MQQTTest",
+			"path": "MQQTTest"
+		},
+		{
+			"name": "TC74Labor8.10.2020",
+			"path": "TC74Labor8.10.2020"
+		},
+		{
+			"name": "Final_GPS_MQTT",
+			"path": "Final_GPS_MQTT"
+		},
+		{
+			"name": "Labor_10.03.2020_TLE_SPI",
+			"path": "Labor_10.03.2020_TLE_SPI"
+		}
+	],
+	"settings": {}
+}

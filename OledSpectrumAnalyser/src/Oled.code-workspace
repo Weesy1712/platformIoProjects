@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\karim\\Downloads\\DS18B20"
+		},
+		{
+			"name": "DS18B20",
+			"path": "C:\\Users\\karim\\Downloads\\DS18B20\\DS18B20"
+		},
+		{
+			"name": "Labor21.1.2020",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\Labor21.1.2020"
+		},
+		{
+			"name": "asdafwef",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\asdafwef"
+		},
+		{
+			"name": "20.2.20Uebung",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\20.2.20Uebung"
+		},
+		{
+			"name": "Poti_Sender",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\Poti_Sender"
+		},
+		{
+			"name": "7seg_empfaenger",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\7seg_empfaenger"
+		},
+		{
+			"name": "WerkstattProjekt",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\WerkstattProjekt"
+		},
+		{
+			"name": "Labor3.3.2020",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\Labor3.3.2020"
+		},
+		{
+			"name": "Labor2-3.3.2020",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\Labor2-3.3.2020"
+		},
+		{
+			"name": "SD-CARD-WRITER",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\SD-CARD-WRITER"
+		},
+		{
+			"name": "OledSpectrumAnalyser",
+			"path": "C:\\Users\\karim\\Documents\\PlatformIO\\Projects\\OledSpectrumAnalyser"
+		},
+		{
+			"name": "ArduinoNanoOledNTC",
+			"path": "..\\..\\ArduinoNanoOledNTC"
+		}
+	],
+	"settings": {}
+}
